@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Login Form Practice</string>
+
+
+    <!-- Registration Screen -->
+    <string name="register_title_page">Register Title Page</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="registration_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register_button">Register Button</string>
+    <string name="registration_toggle_password_visibility">Toggle password visibility</string>
+    <string name="toggle_confirm_password_visibility">Toggle confirm password visibility</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="registration_login">Login</string>
+
+    <!-- Login Screen -->
+    <string name="login_title_page">Login Title Page</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login Button</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+</resources>
